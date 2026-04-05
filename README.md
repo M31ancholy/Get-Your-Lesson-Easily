@@ -1,7 +1,3 @@
-好，下面给你一版 **更像 GitHub 风格、简洁一点、直接可用的 README**：
-
----
-
 # Get-Your-Lesson-Easily
 
 > For a better school life
